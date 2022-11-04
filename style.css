@@ -8,10 +8,18 @@
     width: 200px;
 }
 
+.row{
+    margin-bottom: 90px;
+}
+
 .bg-info{
     padding-bottom: 12px;
 }
 
 #title_portfolio{
     margin-top: 12px;
+}
+
+#anagrafica{
+    margin-bottom: 8px;
 }
