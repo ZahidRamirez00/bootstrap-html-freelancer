@@ -1,6 +1,5 @@
 .navbar{
     padding: 0px;
-    margin-top: 8px;
     margin-bottom: 8px;
 }
 
@@ -22,4 +21,9 @@
 
 #anagrafica{
     margin-bottom: 8px;
+}
+
+.bg-dark{
+    padding-bottom: 8px;
+    padding-top: 12px;
 }
