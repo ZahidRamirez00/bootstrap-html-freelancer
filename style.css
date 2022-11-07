@@ -1,3 +1,7 @@
+*{
+    min-width: 280px;
+}
+
 .navbar{
     padding: 0px;
     margin-bottom: 8px;
